@@ -1,3 +1,13 @@
-function priceCheck if (1 == '1') 
-  return match
+function priceCheck(price) {
+if (price == 1.50) {
+  return "match";
+}
+}
+
+function strickPriceCheck(price) {
+  if (price === 1.50) {
+    return "match";
+  }
+}
+
 
