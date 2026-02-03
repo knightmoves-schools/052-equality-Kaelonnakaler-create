@@ -4,10 +4,11 @@ if (price == 1.50) {
 }
 }
 
-function strickPriceCheck(price) {
+function strictPriceCheck(price) {
   if (price === 1.50) {
     return "match";
   }
 }
+
 
 
